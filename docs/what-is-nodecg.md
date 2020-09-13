@@ -4,7 +4,7 @@ title: What is NodeCG?
 sidebar_label: NodeCG
 ---
 
-[![NodeCG](https://raw.githubusercontent.com/nodecg/nodecg/master/media/splash.png)](http://nodecg.com/)
+[![NodeCG](/static/img/splash.png)](http://nodecg.com/)
 
 [![Discord](https://img.shields.io/discord/423233465643827211.svg?logo=discord)](https://discord.gg/NNmVz4x)
 [![Build Status](https://travis-ci.org/nodecg/nodecg.svg?branch=master)](https://travis-ci.org/nodecg/nodecg)
